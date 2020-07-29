@@ -9,6 +9,6 @@ Work in Progress, Current Features:
 
 Features to add:
 - variables
-- Conditional Statements
+- conditional statements
 - functions
 
